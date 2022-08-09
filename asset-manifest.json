@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoexchange/static/css/main.e8903e46.css",
+    "main.js": "/cryptoexchange/static/js/main.2e525646.js",
+    "index.html": "/cryptoexchange/index.html",
+    "main.e8903e46.css.map": "/cryptoexchange/static/css/main.e8903e46.css.map",
+    "main.2e525646.js.map": "/cryptoexchange/static/js/main.2e525646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8903e46.css",
+    "static/js/main.2e525646.js"
+  ]
+}
